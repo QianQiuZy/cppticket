@@ -33,7 +33,7 @@
 
 ## 介绍
 
-已使用httpx
+已使用httpx2[http2]
 
 因技术原因闭源
 
@@ -57,10 +57,6 @@
 
 ## 友情链接
 
-[cppTickerBuy](https://github.com/mikumifa/cppTickerBuy)
-
-[CPPTicketManager](https://github.com/shotoguazi/CPPTicketManager)
-
 [CPPRush](https://github.com/Hanzzkj652/CPPRush)
 
 ## 免责声明
@@ -71,7 +67,13 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=QianQiuZy/CppTicket&type=Date)](https://star-history.com/#QianQiuZy/CppTicket&Date)
+<a href="https://www.star-history.com/?type=date&repos=QianQiuZy%2FCppTicket">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=QianQiuZy/CppTicket&type=date&theme=dark&legend=top-left&sealed_token=_mAts_kcTxGczUS_IuV2NX0G6aAkAbSFMVF8JiLebTBVBYr4Y1Mt4QtpGfjfOBnS0bIZl7PGLgothCTiQcH3lsekrmfFzYXEv2FR8ugLb-0dczCxdW5LWA" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=QianQiuZy/CppTicket&type=date&legend=top-left&sealed_token=_mAts_kcTxGczUS_IuV2NX0G6aAkAbSFMVF8JiLebTBVBYr4Y1Mt4QtpGfjfOBnS0bIZl7PGLgothCTiQcH3lsekrmfFzYXEv2FR8ugLb-0dczCxdW5LWA" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=QianQiuZy/CppTicket&type=date&legend=top-left&sealed_token=_mAts_kcTxGczUS_IuV2NX0G6aAkAbSFMVF8JiLebTBVBYr4Y1Mt4QtpGfjfOBnS0bIZl7PGLgothCTiQcH3lsekrmfFzYXEv2FR8ugLb-0dczCxdW5LWA" />
+ </picture>
+</a>
 
 ## 投喂作者
 
